@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "anil",
+      "year": 2021,
+      "month": "jan",
+      "country": "india",
+      "data": [
+        {
+          "name": "Page A",
+          "uv": 4000,
+          "pv": 2400
+        },
+        {
+          "name": "Page b",
+          "uv": 3400,
+          "pv": 2400
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "year": 2021,
+      "month": "jan",
+      "country": "us",
+      "data": [
+        {
+          "name": "Page B",
+          "uv": 7000,
+          "pv": 1398
+        },
+        {
+          "name": "Page b",
+          "uv": 1400,
+          "pv": 8400
+        }
+      ]
+    },
+
+
+    {
+      "id": 3,
+      "name": "Bob",
+      "year": 2021,
+      "month": "feb",
+      "country": "india",
+      "data": [
+        {
+          "name": "Page B",
+          "uv": 3000,
+          "pv": 1398
+        },
+        {
+          "name": "Page b",
+          "uv": 1400,
+          "pv": 4400
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Bob",
+      "year": 2021,
+      "month": "feb",
+      "country": "us",
+      "data": [
+        {
+          "name": "Page B",
+          "uv": 6000,
+          "pv": 1398
+        },
+        {
+          "name": "Page b",
+          "uv": 5400,
+          "pv": 4400
+        }
+      ]
+    },
+  
+  
+    {
+      "id": 3,
+      "name": "akash",
+      "year": 2022,
+      "month": "jan",
+      "country": "india",
+      "data": [
+        {
+          "name": "Page C",
+          "uv": 7000,
+          "pv": 9800
+        },
+        {
+          "name": "Page b",
+          "uv": 3200,
+          "pv": 1200
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "akash1",
+      "year": 2022,
+      "month": "jan",
+      "country": "us",
+      "data": [
+        {
+          "name": "Page C",
+          "uv": 2000,
+          "pv": 9800
+        },
+        {
+          "name": "Page b",
+          "uv": 2400,
+          "pv": 5400
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "akash",
+      "year": 2022,
+      "month": "feb",
+      "country": "india",
+      "data": [
+        {
+          "name": "Page C",
+          "uv": 2000,
+          "pv": 9800
+        },
+        {
+          "name": "Page b",
+          "uv": 4300,
+          "pv": 1200
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "akash",
+      "year": 2022,
+      "month": "feb",
+      "country": "us",
+      "data": [
+        {
+          "name": "Page C",
+          "uv": 2000,
+          "pv": 9800
+        },
+        {
+          "name": "Page b",
+          "uv": 6700,
+          "pv": 1230
+        }
+      ]
+    }
+  ]
+}
